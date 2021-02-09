@@ -1,0 +1,4 @@
+For CPU, we can install pytorch by following commnad :-
+ - conda install pytorch-cpu torchvision-cpu -c pytorch
+We can use pytorch.yml file to create environment and download all dependecies in environment.
+We use command conda env create -f pytorch_env.yml and it will create environment and download all dependecies.
